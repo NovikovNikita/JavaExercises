@@ -1,7 +1,6 @@
-Java Exercises
 
-My expirience with Java
+# JavaExercises
+My exercises with Java
 
-GameOfLife.java
-
-The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+## GameOfLife.java
+Implementation of the well-known a cellular automaton devised by the British mathematician John Horton Conway in 1970.
