@@ -8,5 +8,5 @@ Implementation of the well-known a cellular automaton devised by the British mat
 ## GameSnake.java
 Implementation of the popular game Snake.
 
-## TetrisGame.java
+## GameTetris.java
 Implementation of the popular game Tetris
