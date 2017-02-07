@@ -10,3 +10,6 @@ Implementation of the popular game Snake.
 
 ## GameTetris.java
 Implementation of the popular game Tetris
+
+## SpaceInviders.java
+Implementation of the famous game Space Invaders. It is an arcade video game created by Tomohiro Nishikado and released in 1978.
