@@ -13,3 +13,6 @@ Implementation of the popular game Tetris
 
 ## GameSpaceInviders.java
 Implementation of the famous game Space Invaders. It is an arcade video game created by Tomohiro Nishikado and released in 1978.
+
+## GameMines.java
+Implementation of the famous game Minesweeper.
