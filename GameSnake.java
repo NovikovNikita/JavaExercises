@@ -9,7 +9,7 @@ import java.io.*;
 
 public class GameSnake extends JFrame {
 
-    final String TITLE_OF_PROGRAMM = "Classic Game Snake";
+    final String TITLE_OF_PROGRAM = "Classic Game Snake";
     final String GAME_OVER_MSG = "Game Over";
     final int POINT_RADIUS = 20;
     final int FIELD_WIDTH = 30;
