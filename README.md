@@ -16,3 +16,6 @@ Implementation of the famous game Space Invaders. It is an arcade video game cre
 
 ## GameMines.java
 Implementation of the famous game Minesweeper.
+
+## GameXonix.java
+Implementation of the famous game Xonix
