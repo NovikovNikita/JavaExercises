@@ -19,3 +19,6 @@ Implementation of the famous game Minesweeper.
 
 ### GameXonix.java
 Implementation of the famous game Xonix
+
+## GameBattleShip.java
+Implementation of the game Battle Ship
